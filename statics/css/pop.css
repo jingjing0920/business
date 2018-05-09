@@ -1,0 +1,23 @@
+@charset "utf-8";
+/*咨询顾问弹层 2016-03-31*/
+.pop-consultant-wp{ -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; overflow: hidden;font-family: 'Microsoft Yahei'; }
+.consultant-hd{ height: 125px; background: url(../img/pop-banner-bg.jpg) no-repeat; }
+.consultant-hd .title{ font-size: 20px; line-height: 125px; font-weight: 700; color: #FFF; text-align: center; }
+.consultant-bd{ padding:20px; }
+.consultanttxt1{ font-size: 13px; text-align: center; color: #7a7a7a; }
+.consultant-form{ padding:10px 20px 20px 20px; }
+.consultant-tips{ line-height: 30px; font-size: 14px; color: #ed3915; text-align: center; }
+.consultant-item{ text-align: center; margin-bottom: 20px; }
+.consultant-item .consultant-ipt{ border:0 none; width: 240px; height: 18px; padding:10px 5px; border:1px solid #ececec; line-height: 18px; background: #ececec; border-radius: 4px; }
+.consultant-item .btn-callme{display: inline-block; height: 40px; line-height: 40px; width: 250px; text-align: center;  color:#FFF; background: #04b85d;  border-radius: 4px; font-size: 16px;}
+.consultant-item .btn-callme:hover{ text-decoration: none; background: #02ac56; }
+.order-pop-box { padding:30px 10px;  }
+.order-pop-hd{ padding:15px; text-align: center; }
+.hd-h2{ font-size: 24px; line-height: 36px;}
+.hd-p1{ border-bottom: 1px solid #d1d1d1; text-align: center; height: 20px;}
+.hd-p1 span{ display: inline-block; font-size: 14px; color: #999; background-color: #e8e8e8; padding: 0 20px; line-height: 20px; position: relative; bottom: -10px;}
+.hd-p2{ font-size: 16px; text-align: center; color: #858585; padding-top: 20px;}
+.order-pop-bd{ padding:20px 0; }
+.qrcode-area{ background-color: #FFF; margin: 0 auto; width: 160px; height: 160px; position: relative; border:1px solid #d5d5d5;}
+
+
