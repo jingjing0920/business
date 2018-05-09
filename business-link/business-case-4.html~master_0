@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="renderer" content="webkit">
-<title>时尚艺术｜商务考察－6人游旅行网</title>
+<title>戛纳电影节｜商务考察－6人游旅行网</title>
 <meta name="description" content="商务考察">
 <meta name="keywords" content="商务考察 6人游旅行网">
 <link href="../statics/css/base-v3.css" rel="stylesheet" type="text/css">
@@ -59,76 +59,107 @@
 </div>
 <!-- 公共头部 End -->
 
-<!-- banner -->
-<div class="bs-detail-banner">
+<!--固定内容-->
+<div class="bs-case-top">
 	<div class="bs-wrp">
-		<div class="bs-detail-top">
-			<h1 class="bs-detail-title">时尚艺术</h1>
-			<p class="bs-detail-eng">incubation of venture capital</p>
+		<div class="case-top-box clearfix">
+			<div class="case-main-img">
+				<img src="images/戛纳1.jpg"/>
+			</div>
+			<div class="case-info">
+				<h1 class="case-title">戛纳电影节</h1>
+				<p class="case-info-text">地点：法国  戛纳</p>
+				<p class="case-info-text">天数：4天  5月6日-10日 </p>
+				<div class="case-highlight">
+					<dl>
+						<dt>案例亮点：</dt>
+						<dd>1、时尚街拍活动（资深摄影师）及戛纳电影节红地毯开幕仪式；</dd>
+						<dd>2、与众多影人，电影节评委一同加入戛纳电影节开幕仪式现场；</dd>
+						<dd>3、入住戛纳电影节官方合作酒店，国内主时尚媒体跟踪报道大幅推广；</dd>
+						<dd>4、米其林餐厅就餐、戛纳电影节官方用车以及私人翻译；</dd>
+					</dl>
+				</div>
+				<div class="case-action">
+					<a href="javascript:;" id="" class="btn-ctz" name="">立即咨询</a>
+				</div>
+			</div>
 		</div>
 	</div>
 </div>
-<!-- banner end -->
+
 <!--内容区域-->
 <div class="bs-content-wrap">
 	<div class="bs-wrp bs-content-box">
 		<div class="bs-content-hd">
-			<h2 style="text-align: center;">巴黎时装周<br><span class="subtit" style="font-size: 18px; font-weight: normal; color: #999;">Paris Fashion Week</span></h2>
+			<h2>背景介绍</h2>
 		</div>
 		<div class="bs-content-bd">
-			<p>巴黎时装周起源于1910年，由法国时装协会主办，每年都会吸引大批时尚界人士前往看秀。那些来自日本、英国和比利时的殿堂级时装设计师们，几乎每一个都是通过巴黎走进了世界的视野，一站成名。大时装周每年一届，分为秋冬（2、3月）和春夏（9、10月）两个部分，每次在大约一个月内相继会举办300余场时装发布会。每年还有高定和男装周活动。</p>
-		</div>
-		<div class="img-wrap" style="padding-bottom: 60px;">
-			<ul class="img-list clearfix col1">
-				<li><div class="img-box"><img src="http://cdn1.6renyou.cn/sight/2018_5_8_1525764757979624068.jpg@80q"/></div></li>
-			</ul>
-		</div>
-	</div>
-	<div class="bs-content-box3">
-		<div class="bs-wrp">
-			<div class="bs-content-bd">
-				<div class="bs-top-box">
-					<h3 class="tit-3 bs-color">实名制邀请函</h3>
-					<p style="margin-bottom: 0;">每年巴黎时装周，我们可以提供不同品牌的实名邀请函</p>
-				</div>
-			</div>
-			<div class="bs-content-bd">
-				<div class="img-wrap">
-					<ul class="img-list clearfix col1">
-						<li><div class="img-box"><img src="http://cdn1.6renyou.cn/sight/2018_5_8_1525766363137518256.jpg"/></div></li>
-					</ul>
-				</div>
-			</div>
+			<p>戛纳电影节创立于1939年，是当今世界最具影响力、最顶尖的国际电影节。每年于五月中旬在法国南部戛纳举办，为期12天左右，届时140个国家近5000名专业记者和媒体人，300+国际电视台、200+报社、150+广播电台，超过6万名世界各国电影界人士，齐聚在南法小城戛纳，一起参与这场盛事。</p>
+			<p>5月的戛纳，明星云集，星光璀璨</p>
 		</div>
 	</div>
 	<div class="bs-content-box3" style="background: #FFFFFF;">
 		<div class="bs-wrp">
-			<div class="bs-content-bd">
-				<div class="bs-top-box">
-					<h3 class="tit-3 bs-color">参展品牌</h3>
-					<p style="margin-bottom: 0;">按划线区分不同的价格区域</p>
-				</div>
+			<div class="bs-content-hd" style="padding-top: 10px;">
+				<h2>参考行程</h2>
 			</div>
 			<div class="bs-content-bd">
-				<div class="img-wrap">
-					<ul class="img-list clearfix col1">
-						<li><div class="img-box"><img src="http://cdn1.6renyou.cn/sight/2018_5_8_1525766386379668343.jpg"/></div></li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="bs-content-box3">
-		<div class="bs-wrp">
-			<div class="bs-content-bd">
-				<div class="bs-top-box">
-					<h3 class="tit-3 bs-color">特色服务</h3>
-				</div>
-			</div>
-			<div class="bs-content-bd">
-				<div class="img-wrap">
-					<ul class="img-list clearfix col1">
-						<li><div class="img-box"><img src="http://cdn1.6renyou.cn/sight/2018_5_8_1525768527068196624.jpg"/></div></li>
+				<div class="list-style2-box list-trip" style="margin-top: 30px;">
+					<ul class="list-style2 clearfix">
+						<li class="list-sytle2-item">
+							<div class="list-img">
+								<img src="images/戛纳2.jpg"/>
+							</div>
+							<div class="list-bd">
+								<h4><span>Day1</span></h4>
+								<h5><strong>中国-尼斯-戛纳</strong></h5>
+								<p>• 飞机抵达尼斯国际机场，私人导游接机前往戛纳</p>
+								<p>• 抵达戛纳宫殿级五星酒店Hotel Majestic Barrier</p>
+								<p>• 入住酒店时，赠上法式鸡尾酒为您洗尘</p>
+								<p>• 酒店餐厅La Plage享用晚餐（三道式搭配酒水）</p>
+							</div>
+						</li>
+						<li class="list-sytle2-item list-sytle2-item2">
+							<div class="list-img">
+								<img src="images/戛纳3.jpg"/>
+							</div>
+							<div class="list-bd">
+								<h4><span>Day2</span></h4>
+								<h5><strong>戛纳</strong></h5>
+								<p>• 酒店内享用舒适早餐</p>
+								<p>• 戛纳街拍（明星御用摄影师）</p>
+								<p>• L’Antidote经典传统法式餐厅内享用午餐</p>
+								<p>• 戛纳Spa内享用水疗按摩放松时刻</p>
+								<p>• 戛纳最著名海滨大道2星级米其林餐厅金棕榈餐厅享用晚餐</p>
+							</div>
+						</li>
+						<li class="list-sytle2-item">
+							<div class="list-img">
+								<img src="images/戛纳4.jpg"/>
+							</div>
+							<div class="list-bd">
+								<h4><span>Day3</span></h4>
+								<h5><strong>戛纳</strong></h5>
+								<p>• 酒店内舒适早餐并在泳池内放松身心享受阳光早晨</p>
+								<p>• La Toque d'Or餐厅内享用地中海特色午餐</p>
+								<p>• 放松休息后，化妆造型时刻为您准备亮相红毯仪式</p>
+								<p>• 18:00踏上戛纳电影节红地毯开幕仪式，现场安排摄影师</p>
+								<p>• 19:00与众多影人一同加入戛纳电影节开幕仪式现场</p>
+								<p>• 20:00第71届戛纳电影节首映第一场电影拉开帷幕</p>
+								<p>• 22:00漫步返回舒适酒店</p>
+							</div>
+						</li>
+						<li class="list-sytle2-item list-sytle2-item2">
+							<div class="list-img">
+								<img src="images/戛纳5.jpg"/>
+							</div>
+							<div class="list-bd">
+								<h4><span>Day4</span></h4>
+								<h5><strong>戛纳</strong></h5>
+								<p>• 酒店内享用舒适早餐</p>
+								<p>• 送机尼斯机场搭乘航班返回北京</p>
+							</div>
+						</li>
 					</ul>
 				</div>
 			</div>
@@ -178,5 +209,34 @@
 <script src="http://www.6renyou.com/statics/js/ga.js?v=20140106"></script>
 <!-- Footer End-->
 <!-- 公共尾部 End--> 
+<!-- 返回顶部 -->
+<script type="text/javascript">
+    $(document).ready(function($){
+        var offset = 300,
+        offset_opacity = 1200,
+        scroll_top_duration = 700,
+        $back_to_top = $('.back-top');
+        $(window).scroll(function(){
+            ( $(this).scrollTop() > offset ) ? $back_to_top.addClass('back-is-visible') : $back_to_top.removeClass('back-is-visible back-fade-out');
+            if( $(this).scrollTop() > offset_opacity ) { 
+                $back_to_top.addClass('back-fade-out');
+            }
+        });
+
+        $back_to_top.on('click', function(event){
+            event.preventDefault();
+            $('body,html').animate({
+                scrollTop: 0 ,
+                }, scroll_top_duration
+            );
+        });
+    });
+</script>
+<div class="service">
+    <a class="back-top" href="#0">
+        <i class="tpi ibackTop"></i>
+        <span>TOP</span>
+    </a>
+</div>
 </body>
 </html>
